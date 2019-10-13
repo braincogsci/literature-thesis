@@ -46,8 +46,8 @@ Besides the student, two persons are involved in the assessment of the Literatur
 |Role|Requirements|Responsibilities|Hours on project|
 |---|---|----|:---:|
 |Student||<ul><li>Defines problem or question.<li>Collects and analyzes literature.<li>Writes thesis.</ul>|336|
-|Supervisor|<ul><li>Must be from discipline/research group different from co-assessor's</ul>|<ul><li>Guides the student through process of writing thesis.<li>Helps determine thesis topic.<li>Meets  with student *at least* three times.<li>Provides feedback on draft version.<li>Grades final work.</ul>|20|
-|Assessor|<ul><li>Must hold a doctoral degree.<li>If the supervisor is a PhD candidate, must work at UvA.<li>Must be from discipline/research group different from co-assessor's</ul>|<ul><li>Grades final work.</ul>|4|
+|Supervisor|<ul><li>Must be from discipline/research group different from assessor's</ul>|<ul><li>Guides the student through process of writing thesis.<li>Helps determine thesis topic.<li>Meets  with student *at least* three times.<li>Provides feedback on draft version.<li>Grades final work.</ul>|20|
+|Assessor|<ul><li>Must hold a doctoral degree.<li>If the supervisor is a PhD candidate, must work at UvA.<li>Must be from discipline/research group different from supervisor's</ul>|<ul><li>Grades final work.</ul>|4|
 
 Please note that the UvA staff member who is designated examiner is responsible for determining and submitting the final grade. To do so, the examiner can log into www.datanose.nl using a link that will be sent via e-mail once the student submits the final version of the thesis online. The examiner can fill in the online grading form and submit the final grade.
 
@@ -55,8 +55,8 @@ The student and supervisor should meet at least three times during the course of
 
 ## Process
 The follow steps determine the workflow of the Literature Thesis:
-- Once there is an agreement between student, supervisor and assessor, the student can register the project via www.datanose.nl/#yourprojects.
-- The programme will then review whether the proposed set-up fits within the scope and regulations of *Brain and Cognitive Sciences*.
+- Once there is an agreement between student, supervisor and assessor, the student can register the project via www.datanose.nl/#yourprojects. The student can suggest who should be examiner of the project.
+- The programme will then review whether the proposed set-up fits within the scope and regulations of *Brain and Cognitive Sciences*. The person who has the examiner role may be altered during this step.
 - Once approved, work on the thesis can start.
 - Upon completion, the student submits the thesis to datanose.nl.
 - Once the thesis has been submitted, the examiner will receive a link via e-mail through which the final grade for the work can be registered. See [this section](#Grading) for more information on the grading process.
