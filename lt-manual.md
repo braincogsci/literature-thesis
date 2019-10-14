@@ -83,7 +83,7 @@ For those looking for more help with selecting or synthesizing sources, the foll
 - Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. T. (2016). *The Craft of Research* (4th ed.). Chicago: University of Chicago Press.
 
 ## Grading
-The *Literature Thesis* is assessed by both the supervisor and assessor, both of whom are chosen by the student at the start of the project. The supervisor and assessor grade independently, with the final grade being the average of the two grades. To normalize grading, please use the [grading rubric](#lt-rubric.md).
+The *Literature Thesis* is assessed by both the supervisor and assessor, both of whom are chosen by the student at the start of the project. The supervisor and assessor grade independently, with the final grade being the average of the two grades. To normalize grading, please use the [grading rubric](lt-rubric.md).
 
 ----
 Please note: If a discrepancy of more than 1 point exists between grading by supervisor and co-assessor, the two should discuss their considerations with each other and seek consensus. If such consensus cannot be obtained, programme management should be contacted via info-mcs@uva.nl to reach a decision.
