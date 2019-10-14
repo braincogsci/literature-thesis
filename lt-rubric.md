@@ -1,6 +1,6 @@
 # Grading Rubric Literature Thesis
 
-You can use the following grading rubric to determine the quality of the submitted Literature Thesis. Please note that the relative weights of the different criteria are fixed. For more information on the Literature Thesis, see the [corresponding manual](#lt-manual.md).
+You can use the following grading rubric to determine the quality of the submitted Literature Thesis. Please note that the relative weights of the different criteria are fixed. For more information on the Literature Thesis, see the [corresponding manual](lt-manual.md).
 
 |Criterion|Insufficient (5.0 or less)|Sufficient (6-7)|Satisfactory (7-8)|Good (8-9)|Excellent (9-10)| 
 |:--- |:----: |:---:|:---: |:----: |:---: |
