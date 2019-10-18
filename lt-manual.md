@@ -75,12 +75,14 @@ The follow steps determine the workflow of the Literature Thesis:
 - Upon completion, the student submits the thesis to datanose.nl.
 - Once the thesis has been submitted, the examiner will receive a link via e-mail through which the final grade for the work can be registered. See [this section](#Grading) for more information on the grading process.
 
-## Materials
+## Materials and support
 The literature that is used to write the Literature Thesis is collected by the students themselves.
 
 For those looking for more help with selecting or synthesizing sources, the following books may prove useful:
 - Burger, A. A. (2008). *The Academic Writer’s Toolkit* (1st ed.). New York: Routledge. 
 - Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. T. (2016). *The Craft of Research* (4th ed.). Chicago: University of Chicago Press.
+
+Students looking for additional help with writing may wish to attend a workshop hosted by the [UvA Writing Centre](https://www.uva.nl/en/shared-content/studentensites/fgw/fgw-gedeelde-content/en/az/writing-centre/writing-centre.html)
 
 ## Grading
 The *Literature Thesis* is assessed by both the supervisor and assessor, both of whom are chosen by the student at the start of the project. The supervisor and assessor grade independently, with the final grade being the average of the two grades. To normalize grading, please use the [grading rubric](lt-rubric.md).
