@@ -50,7 +50,7 @@ The structure of the thesis can be determined in collaboration between student a
 ## Topic
 The research question of the Literature Thesis must be broad enough to justify spending 336 hours writing a paper on it (12 EC), but not so broad that the existing knowledge on the subject cannot be summarized in the time available. The supervisor is requested to justify this estimation when the choice of topic is finalized. Please note: the purpose of the Literature Thesis is NOT additional analysis of data from the literature.
 
-Students may choose a topic in which they have a special interest within the field of brain and cognitive sciences. The content of the thesis should be distinct from the question addressed in their research project(s). Student and supervisor settle on the definitive subject for the paper together. 
+Students may choose a topic in which they have a special interest within the field of brain and cognitive sciences. The content of the thesis should be distinct from the question addressed in their research project(s). Student and supervisor settle on the definitive subject for the paper together, as part of the process of writing the Literature Thesis.
 
 Once the topic and time planning are decided on, the student uses the My Projects portal on Datanose to register the project. This gives the programme the opportunity to provide feedback on the topic choice, if this is deemed necessary. Once this thesis is approved, this becomes visible to the student on Datanose.
 
@@ -68,10 +68,11 @@ Please note that the UvA staff member who is designated examiner is responsible 
 The student and supervisor should meet at least three times during the course of the writing: (1) to discuss the outline of the thesis, (2) to discuss the first draft, and (3) to discuss the final version. The student is responsible for making these appointments with the supervisor. If reasonable, additional meetings are possible, but it should be kept in mind that supervisor should spend a total of 20 hours on supervision and that reading a draft version, providing feedback on the draft version and grading the final version are included in these 20 hours. The assessor has 4 hours to spend on co-assessment of the final work.
 
 ## Process
-The follow steps determine the workflow of the Literature Thesis:
-- Once there is an agreement between student, supervisor and assessor, the student can register the project via www.datanose.nl/#yourprojects. The student can suggest who should be examiner of the project.
-- The programme will then review whether the proposed set-up fits within the scope and regulations of *Brain and Cognitive Sciences*. The person who has the examiner role may be altered during this step.
-- Once approved, work on the thesis can start.
+The following steps determine the workflow of the Literature Thesis:
+- The student meets with a supervisor who has expertise on the topic of the student's interest. The student is not expected to do a lot of preparatory reading for this meeting, or have an exact research question ready. Instead, deciding on the research question and doing preliminary reading is part of the Literature Thesis project.
+- Once there is an agreement on the subject between student, supervisor and assessor, the student can register the project via www.datanose.nl/#yourprojects. The student can suggest who should be examiner of the project.
+- The programme will then review whether the proposed set-up fits within the scope and regulations of *Brain and Cognitive Sciences*. This may include changing who will be examiner.
+- Once approved, the thesis can be included into the MBCS curriculum as a *Literature Thesis (12 EC)*
 - Upon completion, the student submits the thesis to datanose.nl.
 - Once the thesis has been submitted, the examiner will receive a link via e-mail through which the final grade for the work can be registered. See [this section](#Grading) for more information on the grading process.
 
