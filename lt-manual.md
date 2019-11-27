@@ -3,6 +3,9 @@
 ## Introduction
 The ability to review and synthesize information from a variety of sources is a key skill for academic researchers. The module *Literature Thesis* in the research master Brain and Cognitive Sciences is an opportunity for students to practice and develop the skills that are necessary to give a state-of-the-art overview of existing research, on a topic of the student’s choosing. The *Literature Thesis* should not reflect original research by the student (unless it is already published in a peer-reviewed journal), but instead collect and integrate existing work.
 
+The most recent version of this manual can always be found on Github:
+[https://github.com/tijmz/literature-thesis/blob/master/lt-manual.md](https://github.com/tijmz/literature-thesis/blob/master/lt-manual.md)
+
 ## Content
 The student is expected to collect information on a specific subject in a short period, to make a structured summary of this information and to give a critical evaluation of the existing knowledge. A critical evaluation entails that, in addition to classifying known data, the student shows his/her own views on the literature. This could be a consideration of the shortcomings of existing knowledge and a suggestion as to how new understanding might be obtained in the future.
 
@@ -135,3 +138,6 @@ For any comments or questions about the supervision or assessment of the Literat
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTcxMjc0Nzg5NV19
+-->
