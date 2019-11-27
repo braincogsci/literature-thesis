@@ -90,7 +90,7 @@ For those looking for more help with selecting or synthesizing sources, the foll
 Students looking for additional help with writing may wish to attend a workshop hosted by the [UvA Writing Centre](https://www.uva.nl/en/shared-content/studentensites/fgw/fgw-gedeelde-content/en/az/writing-centre/writing-centre.html).
 
 ## Grading
-The *Literature Thesis* is assessed by both the supervisor and assessor, both of whom are chosen by the student at the start of the project. The supervisor and assessor grade independently and the average grade for each component is used to calculate the final grade for the thesis . To normalize grading, please use the [grading rubric](lt-rubric.md).
+The *Literature Thesis* is assessed by the supervisor and assessor, both of whom are chosen by the student at the start of the project. The supervisor and assessor grade independently and the average grade for each component is used to calculate the final grade for the thesis . To normalize grading, please use the [grading rubric](https://github.com/tijmz/literature-thesis/blob/master/lt-rubric.md).
 
 Upon completion of the grading by both assessors, the assessor who has agreed to be examiner will be prompted with a grade registration form, available for download as a PDF or for digital signing using two-factor authentication. Printing the PDF, signing and scanning it and emailing it to info-mcs@uva.nl will allow the programme to register the grade. Also see the section [Submitting grades](https://github.com/tijmz/teaching-matters/wiki/Submitting-grades) on our teaching wiki.
 
@@ -140,6 +140,6 @@ For any comments or questions about the supervision or assessment of the Literat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODI3ODE5MSwtMjExMjEyOTQ0LC0yND
-AwOTc3ODFdfQ==
+eyJoaXN0b3J5IjpbMTkxNDA0NTA3LC0yMTEyMTI5NDQsLTI0MD
+A5Nzc4MV19
 -->
