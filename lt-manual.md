@@ -85,9 +85,9 @@ The literature that is used to write the Literature Thesis is collected by the s
 For those looking for more help with selecting or synthesizing sources, the following books may prove useful:
 - Burger, A. A. (2008). *The Academic Writer’s Toolkit* (1st ed.). New York: Routledge. 
 - Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. T. (2016). *The Craft of Research* (4th ed.). Chicago: University of Chicago Press.
-- 
+- Siljee, K. (2019). *Je scriptie de baas*. Amsterdam: Amsterdam University Press.
 
-Students looking for additional help with writing may wish to attend a workshop hosted by the [UvA Writing Centre](https://www.uva.nl/en/shared-content/studentensites/fgw/fgw-gedeelde-content/en/az/writing-centre/writing-centre.html)
+Students looking for additional help with writing may wish to attend a workshop hosted by the [UvA Writing Centre](https://www.uva.nl/en/shared-content/studentensites/fgw/fgw-gedeelde-content/en/az/writing-centre/writing-centre.html).
 
 ## Grading
 The *Literature Thesis* is assessed by both the supervisor and assessor, both of whom are chosen by the student at the start of the project. The supervisor and assessor grade independently and the average grade for each component is used to calculate the final grade for the thesis . To normalize grading, please use the [grading rubric](lt-rubric.md).
@@ -140,5 +140,6 @@ For any comments or questions about the supervision or assessment of the Literat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTIxMjk0NCwtMjQwMDk3NzgxXX0=
+eyJoaXN0b3J5IjpbMTc4ODI3ODE5MSwtMjExMjEyOTQ0LC0yND
+AwOTc3ODFdfQ==
 -->
