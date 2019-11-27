@@ -85,6 +85,7 @@ The literature that is used to write the Literature Thesis is collected by the s
 For those looking for more help with selecting or synthesizing sources, the following books may prove useful:
 - Burger, A. A. (2008). *The Academic Writer’s Toolkit* (1st ed.). New York: Routledge. 
 - Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. T. (2016). *The Craft of Research* (4th ed.). Chicago: University of Chicago Press.
+- 
 
 Students looking for additional help with writing may wish to attend a workshop hosted by the [UvA Writing Centre](https://www.uva.nl/en/shared-content/studentensites/fgw/fgw-gedeelde-content/en/az/writing-centre/writing-centre.html)
 
@@ -139,5 +140,5 @@ For any comments or questions about the supervision or assessment of the Literat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDA5Nzc4MV19
+eyJoaXN0b3J5IjpbLTIxMTIxMjk0NCwtMjQwMDk3NzgxXX0=
 -->
