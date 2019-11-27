@@ -103,8 +103,8 @@ Please note: If a discrepancy of more than 1 point exists between grading by sup
 
 Once supervisor and assessor have graded the work, the following steps need to be taken:
 1. The supervisor contacts the assessor to pick a date to discuss their assessment
-2. If the two grades differ less than 1 point, the two grades are averaged
-3. If the difference is bigger, supervisor and assessor motivate their stance and seek consensus
+2. If the two grades differ less than 1 point, the two grades are averaged.
+3. If the difference is bigger, supervisor and assessor motivate their stance and seek consensus.
 4. If such consensus cannot be obtained, the supervisor contacts info-mcs@uva.nl to report the issue. The programme will then review the case and determine the outcome
 5. The supervisor and/or assessor discuss the final grade with the student and provide summative feedback.
 6. Once a final grade is established, the examiner submits the grade to the online system at Datanose. An e-mail containing the link to this system is sent out automatically once the student submits the final version of the thesis.
@@ -140,6 +140,6 @@ For any comments or questions about the supervision or assessment of the Literat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjIyMDg5NzksLTIxMTIxMjk0NCwtMj
+eyJoaXN0b3J5IjpbLTE3MjA4MzQ1MzMsLTIxMTIxMjk0NCwtMj
 QwMDk3NzgxXX0=
 -->
