@@ -15,7 +15,7 @@ All this should be done in eight weeks full time, or 336 hours. The way these ho
 
 The important thing is that the workload of the thesis equals eight weeks full-time, whether this time is spent on collecting resources, interpreting contradictory results or discussing the implications of the body of research.
 
-## Learning goals
+## Learning objectives
 Through the process of writing this thesis the student:
 1. Demonstrates a scientific attitude (independence, time management & planning, scientific discussion, creativity, initiative, communication).
 2. Demonstrates the ability to write in academic English.
@@ -139,5 +139,5 @@ For any comments or questions about the supervision or assessment of the Literat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjc0Nzg5NV19
+eyJoaXN0b3J5IjpbLTExMjEwNTM0NTddfQ==
 -->
