@@ -55,7 +55,7 @@ The research question of the Literature Thesis must be broad enough to justify s
 
 Students may choose a topic in which they have a special interest within the field of brain and cognitive sciences. The content of the thesis should be distinct from the question addressed in their research project(s). Student and supervisor settle on the definitive subject for the paper together, as part of the process of writing the Literature Thesis.
 
-Once the topic and time planning are decided on, the student uses the My Projects portal on Datanose to register the project. This gives the programme the opportunity to provide feedback on the topic choice, if this is deemed necessary. Once this thesis is approved, this becomes visible to the student on Datanose.
+Once the topic and time planning are decided on, the student uses the Projects portal on Datanose (www.datanose.nl/#yourprojects) to register the project. This gives the programme the opportunity to provide feedback on the topic choice, if this is deemed necessary. Once this thesis is approved, this becomes visible to the student on Datanose.
 
 ## Supervision
 Besides the student, two persons are involved in the assessment of the Literature Thesis: a supervisor and an assessor. One of these two will in addition be designated examiner. A description of the roles and requirements is given in the below table.
@@ -139,5 +139,5 @@ For any comments or questions about the supervision or assessment of the Literat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjEwNTM0NTddfQ==
+eyJoaXN0b3J5IjpbLTI0MDA5Nzc4MV19
 -->
