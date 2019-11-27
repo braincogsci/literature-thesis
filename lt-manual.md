@@ -90,14 +90,14 @@ For those looking for more help with selecting or synthesizing sources, the foll
 Students looking for additional help with writing may wish to attend a workshop hosted by the [UvA Writing Centre](https://www.uva.nl/en/shared-content/studentensites/fgw/fgw-gedeelde-content/en/az/writing-centre/writing-centre.html).
 
 ## Grading
-The *Literature Thesis* is assessed by the supervisor and assessor, both of whom are chosen by the student at the start of the project. The supervisor and assessor grade independently and the average grade for each component is used to calculate the final grade for the thesis . To normalize grading, please use the [grading rubric](https://github.com/tijmz/literature-thesis/blob/master/lt-rubric.md).
+The *Literature Thesis* is assessed by the supervisor and assessor, both of whom are chosen by the student at the start of the project. The supervisor and assessor grade independently and the average grade for each component is used to calculate the final grade for the thesis . To normalize grading, our dedicated [grading rubric](https://github.com/tijmz/literature-thesis/blob/master/lt-rubric.md) should be used.
 
 Upon completion of the grading by both assessors, the assessor who has agreed to be examiner will be prompted with a grade registration form, available for download as a PDF or for digital signing using two-factor authentication. Printing the PDF, signing and scanning it and emailing it to info-mcs@uva.nl will allow the programme to register the grade. Also see the section [Submitting grades](https://github.com/tijmz/teaching-matters/wiki/Submitting-grades) on our teaching wiki.
 
 Note that upon registration of the grade (through digital signature or processing by the programme), the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results before submitting grades to Datanose.
 
 ----
-Please note: If a discrepancy of more than 1 point exists between grading by supervisor and co-assessor, the two should discuss their considerations with each other and seek consensus. If such consensus cannot be obtained, programme management should be contacted via info-mcs@uva.nl to reach a decision.
+Please note: If a discrepancy of more than 1 point exists between grading by supervisor and co-assessor, the two should discuss their considerations with each other and seek consensus. If such consensus cannot be obtained, programme management should be contacted via info-mcs@uva.nl to reach a decision. It is the responsibility of the examiner to assure that assessment is done in accordance with UvA standards.
 
 ----
 
@@ -140,6 +140,6 @@ For any comments or questions about the supervision or assessment of the Literat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDA0NTA3LC0yMTEyMTI5NDQsLTI0MD
-A5Nzc4MV19
+eyJoaXN0b3J5IjpbLTExNjIyMDg5NzksLTIxMTIxMjk0NCwtMj
+QwMDk3NzgxXX0=
 -->
