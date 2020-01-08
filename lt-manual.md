@@ -58,7 +58,7 @@ Students may choose a topic in which they have a special interest within the fie
 Once the topic and time planning are decided on, the student uses the Projects portal on Datanose (www.datanose.nl/#yourprojects) to register the project. This gives the programme the opportunity to provide feedback on the topic choice, if this is deemed necessary. Once this thesis is approved, this becomes visible to the student on Datanose.
 
 ## Supervision
-Besides the student, two persons are involved in the assessment of the Literature Thesis: a supervisor and an assessor. One of these two will in addition be designated examiner. A description of the roles and requirements is given in the below table.
+Two separate persons are involved in the assessment of the Literature Thesis: an assessor and an examiner. One of these two will in addition be the supervisor of the thesis. A description of the roles and requirements is given in the below table. Note that the requirement for the examiner are that this person is a senior researcher at UvA.
 
 |Role|Requirements|Responsibilities|Hours on project|
 |---|---|----|:---:|
