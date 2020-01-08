@@ -65,7 +65,7 @@ Two separate persons are involved in the assessment of the Literature Thesis: an
 |Student||<ul><li>Defines problem or question.<li>Collects and analyzes literature.<li>Writes thesis.</ul>|336|
 |Supervisor|<ul><li>Must be from discipline/research group different from assessor's</ul>|<ul><li>Guides the student through process of writing thesis.<li>Helps determine thesis topic.<li>Meets  with student *at least* three times.<li>Provides feedback on draft version.<li>Grades final work.</ul>|20|
 |Assessor|<ul><li>Must hold a doctoral degree.<li>If the supervisor is a PhD candidate, must work at UvA.<li>Must be from discipline/research group different from supervisor's</ul>|<ul><li>Grades final work.</ul>|20 if supervisor, 4 if 'second reader'|
-|Examiner|<ul><li>Must hold a doctoral degree.<li>Must work at UvA.</ul>|20 if supervisor, 4 if 'second reader'|
+|Examiner|<ul><li>Must hold a doctoral degree.<li>Must work at UvA.</ul>| |20 if supervisor, 4 if 'second reader'|
 
 Please note that the UvA staff member who is designated examiner is responsible for determining and submitting the final grade. To do so, the examiner can log into www.datanose.nl using a link that will be sent via e-mail once the student submits the final version of the thesis online. The examiner can fill in the online grading form and submit the final grade.
 
