@@ -1,14 +1,18 @@
-# Literature Thesis Manual
+# Manual Literature Thesis Brain and Cognitive Sciences
 
 ## Introduction
-The ability to review and synthesize information from a variety of sources is a key skill for academic researchers. The module *Literature Thesis* in the research master Brain and Cognitive Sciences is an opportunity for students to practice and develop the skills that are necessary to give a state-of-the-art overview of existing research, on a topic of the student’s choosing. The *Literature Thesis* should not reflect original research by the student (unless it is already published in a peer-reviewed journal), but instead collect and integrate existing work.
+The ability to review and synthesize information from a variety of sources is a key skill for academic researchers. The module *Literature Thesis Brain and Cognitive Sciences* is an opportunity for students to practice and develop the skills that are necessary to give a state-of-the-art overview of existing research, on a topic of the student’s choosing. The Literature Thesis should not reflect original research by the student (unless the student already published it in a peer-reviewed journal), but instead collect and integrate existing work.
 
 The most recent version of this manual can always be found on Github:
-[https://github.com/tijmz/literature-thesis/blob/master/lt-manual.md](https://github.com/tijmz/literature-thesis/blob/master/lt-manual.md). Major changes are only applied at the end of a semester, but minor issues such as typos or ambiguities are resolved on a continuous basis.
+[https://github.com/braincogsci/literature-thesis/blob/master/lt-manual.md](https://github.com/braincogsci/literature-thesis/blob/master/lt-manual.md). Major changes are only applied at the end of a semester, but minor issues such as typos or ambiguities are resolved on a continuous basis.
 
 ## Content
-For the Literature Thesis, the student is expected to collect information on a specific subject in a short period, to make a structured summary of this information and to give a critical evaluation of the existing knowledge. A critical evaluation entails that, in addition to classifying known data, the student shows his/her own views on the literature. This could be a consideration of the shortcomings of existing knowledge and a suggestion as to how new understanding might be obtained in the future.
+The final product created by the student should contain:
 
+* A clear and motivated research question
+* A comprehensive overview of the existing literature
+* A critical discussion of the existing literature, leading to a clear position
+* A section detailing how the conclusion of the thesis relates to other disciplines (i.e. how could the outcome contribute to other fields, or how could other fields provide a more complete answer to the research question).
 
 ## Size of thesis
 All this should be done in eight weeks full time, or 336 hours. The way these hours are spent will differ per discipline and per project. Sometimes the collection of sources will be especially time-consuming, other times the interpretation or comparison of sources will be the lion's share of the work. The supervisor and the student should make sure there is a planning that reflects the time limit and should agree on a word count in advance.
@@ -20,11 +24,10 @@ Through the process of writing this thesis the student:
 1. Demonstrates a scientific attitude (independence, time management & planning, scientific discussion, creativity, initiative, communication).
 2. Demonstrates the ability to write in academic English.
 3. Is able to find, select and organize relevant literature from scientific journals.
-4. Can formulate a well-structured abstract.
-5. Can set out the framework to formulate a (literature research) question.
-6. Is able to find, select and organize relevant literature from scientific journals.
+5. Can set out a framework to formulate a (literature research) question.
 7. Is able to critically read and evaluate the selected literature.
 8. Can review selected literature to develop a personal, scientifically informed perspective.
+9. Can create an interdisciplinary perspective on a self-chosen thesis subject
 
 This translates into the following components of the final thesis being assessed.
 
@@ -46,9 +49,10 @@ The structure of the thesis can be determined in collaboration between student a
 1. Abstract
 2. Introduction and definition of problem
 3. Overview and critical discussion of studied literature
-4. Personal critical opinion, ideally offered in interdisciplinary framework
-5. Conclusions
-6. References
+4. Personal critical opinion
+5. Interdisciplinary reflection
+6. Conclusions
+7. References
 
 ## Topic
 The research question of the Literature Thesis must be broad enough to justify spending 336 hours writing a paper on it (12 EC), but not so broad that the existing knowledge on the subject cannot be summarized in the time available. The supervisor is requested to justify this estimation when the choice of topic is finalized. Please note: the purpose of the Literature Thesis is NOT additional analysis of data from the literature.
@@ -77,8 +81,13 @@ The following steps determine the workflow of the Literature Thesis:
 - Once there is an agreement on the subject between student, supervisor and assessor, the student can register the project via www.datanose.nl/#yourprojects. The student can suggest who should be examiner of the project.
 - The programme will then review whether the proposed set-up fits within the scope and regulations of *Brain and Cognitive Sciences*. This may include changing who will be examiner.
 - Once approved, the thesis can be included into the MBCS curriculum as a *Literature Thesis (12 EC)*
+- During writing, the student meet with the supervisor at least two additional times to discuss progress
+- Before submitting a final version, the student may submit one draft version to the supervisor for feedback purposes
 - Upon completion, the student submits the thesis to datanose.nl.
 - Once the thesis has been submitted, the examiner will receive a link via e-mail through which the final grade for the work can be registered. See [this section](#Grading) for more information on the grading process.
+
+## Delays
+In case the deadline for final submission as registered on Datanose is not met by the student, the student is expected to contact the master's programme via info-mcs@uva.nl. If the delay is more than one month, the examiner of the Literature Thesis may decide the project needs to be graded as 'insufficient'.
 
 ## Materials and support
 The literature that is used to write the Literature Thesis is collected by the students themselves.
@@ -135,12 +144,3 @@ Please use your own judgment to determine word count or required amount of resou
 |Total|336|
 
 For any comments or questions about the supervision or assessment of the Literature Thesis, please contact our offices via info-mcs@uva.nl. 
-
-
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxOTM0MDUxLC0xNzIwODM0NTMzLC0yMT
-EyMTI5NDQsLTI0MDA5Nzc4MV19
--->
