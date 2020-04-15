@@ -1,23 +1,10 @@
 # Manual Literature Thesis Brain and Cognitive Sciences
 
 ## Introduction
-The ability to review and synthesize information from a variety of sources is a key skill for academic researchers. The module *Literature Thesis Brain and Cognitive Sciences* is an opportunity for students to practice and develop the skills that are necessary to give a state-of-the-art overview of existing research, on a topic of the student’s choosing. The Literature Thesis should not reflect original research by the student (unless the student already published it in a peer-reviewed journal), but instead collect and integrate existing work.
+The ability to review and synthesize information from a variety of sources is a key skill for academic researchers. The module *Literature Thesis Brain and Cognitive Sciences* is an opportunity for students to practice and develop the skills that are necessary to give a state-of-the-art overview of existing research, on a topic of the student’s choosing. The Literature Thesis should not reflect original research by the student (unless the student already published it in a peer-reviewed journal), but instead collect, integrate and discuss existing work. 
 
 The most recent version of this manual can always be found on Github:
 [https://github.com/braincogsci/literature-thesis/blob/master/lt-manual.md](https://github.com/braincogsci/literature-thesis/blob/master/lt-manual.md). Major changes are only applied at the end of a semester, but minor issues such as typos or ambiguities are resolved on a continuous basis.
-
-## Content
-The final product created by the student should contain:
-
-* A clear and motivated research question
-* A comprehensive overview of the existing literature
-* A critical discussion of the existing literature, leading to a clear position
-* A section detailing how the conclusion of the thesis relates to other disciplines (i.e. how could the outcome contribute to other fields, or how could other fields provide a more complete answer to the research question).
-
-## Size of thesis
-All this should be done in eight weeks full time, or 336 hours. The way these hours are spent will differ per discipline and per project. Sometimes the collection of sources will be especially time-consuming, other times the interpretation or comparison of sources will be the lion's share of the work. The supervisor and the student should make sure there is a planning that reflects the time limit and should agree on a word count in advance.
-
-The important thing is that the workload of the thesis equals eight weeks full-time, whether this time is spent on collecting resources, interpreting contradictory results or discussing the implications of the body of research.
 
 ## Learning objectives
 Through the process of writing this thesis the student:
@@ -27,20 +14,19 @@ Through the process of writing this thesis the student:
 5. Can set out a framework to formulate a (literature research) question.
 7. Is able to critically read and evaluate the selected literature.
 8. Can review selected literature to develop a personal, scientifically informed perspective.
-9. Can create an interdisciplinary perspective on a self-chosen thesis subject
+9. Can create an interdisciplinary perspective on a self-chosen thesis subject.
 
-This translates into the following components of the final thesis being assessed.
+## Content
+The final product created by the student should contain:
+* A clear and motivated research question
+* A comprehensive overview of the existing literature
+* A critical discussion of the existing literature, leading to a clear position
+* A section detailing how the conclusion of the thesis relates to other disciplines (i.e. how could the outcome contribute to other fields, or how could other fields provide a more complete answer to the research question).
 
-|Component|Contribution to final grade|
-|:---|:---:|
-|Punctuality, planning and process | 10%|
-|Abstract | 5% |
-| Theoretical framework and problem statement | 30% |
-|Content and discussion | 20% |
-| Critical thinking | 20% |
-|Academic standards | 5% |
-|Writing | 10% |
+## Size of thesis
+All this should be done in eight weeks full time, or 336 hours. The way these hours are spent will differ per discipline and per project. Sometimes the collection of sources will be especially time-consuming, other times the interpretation or comparison of sources will be the lion's share of the work. The supervisor and the student should make sure there is a planning that reflects the time limit and should agree on a word count in advance.
 
+The important thing is that the workload of the thesis equals eight weeks full-time, whether this time is spent on collecting resources, interpreting contradictory results or discussing the implications of the body of research.
 
 For more information on assessment, see the [section on grading](#grading).
 
@@ -81,7 +67,7 @@ The following steps determine the workflow of the Literature Thesis:
 - Once there is an agreement on the subject between student, supervisor and assessor, the student can register the project via www.datanose.nl/#yourprojects. The student can suggest who should be examiner of the project.
 - The programme will then review whether the proposed set-up fits within the scope and regulations of *Brain and Cognitive Sciences*. This may include changing who will be examiner.
 - Once approved, the thesis can be included into the MBCS curriculum as a *Literature Thesis (12 EC)*
-- During writing, the student meet with the supervisor at least two additional times to discuss progress
+- During writing, the student meet with the supervisor at least three additional times to discuss progress
 - Before submitting a final version, the student may submit one draft version to the supervisor for feedback purposes
 - Upon completion, the student submits the thesis to datanose.nl.
 - Once the thesis has been submitted, the examiner will receive a link via e-mail through which the final grade for the work can be registered. See [this section](#Grading) for more information on the grading process.
