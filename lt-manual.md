@@ -1,10 +1,7 @@
-# Manual Literature Thesis Brain and Cognitive Sciences
+# Manual Literature Thesis Brain and Cognitive Sciences 2020-2021
 
 ## Introduction
 The ability to review and synthesize information from a variety of sources is a key skill for academic researchers. The module *Literature Thesis Brain and Cognitive Sciences* is an opportunity for students to practice and develop the skills that are necessary to give a state-of-the-art overview of existing research, on a topic of the student’s choosing. The Literature Thesis should not reflect original research by the student (unless the student already published it in a peer-reviewed journal), but instead collect, integrate and discuss existing work. 
-
-The most recent version of this manual can always be found on Github:
-[https://github.com/braincogsci/literature-thesis/blob/master/lt-manual.md](https://github.com/braincogsci/literature-thesis/blob/master/lt-manual.md). Major changes are only applied at the end of a semester, but minor issues such as typos or ambiguities are resolved on a continuous basis.
 
 ## Learning objectives
 Through the process of writing this thesis the student:
@@ -21,7 +18,7 @@ The final product created by the student should contain:
 * A clear and motivated research question
 * A comprehensive overview of the existing literature
 * A critical discussion of the existing literature, leading to a clear position
-* A section detailing how the conclusion of the thesis relates to other disciplines (i.e. how could the outcome contribute to other fields, or how could other fields provide a more complete answer to the research question).
+* A section detailing how the conclusion of the thesis relates to other disciplines (i.e. how the outcome could contribute to other fields, or how other fields could provide a more complete answer to the research question).
 
 ## Size of thesis
 All this should be done in eight weeks full time, or 336 hours. The way these hours are spent will differ per discipline and per project. Sometimes the collection of sources will be especially time-consuming, other times the interpretation or comparison of sources will be the lion's share of the work. The supervisor and the student should make sure there is a planning that reflects the time limit and should agree on a word count in advance.
@@ -45,15 +42,15 @@ The research question of the Literature Thesis must be broad enough to justify s
 
 Students may choose a topic in which they have a special interest within the field of brain and cognitive sciences. The content of the thesis should be distinct from the question addressed in their research project(s). Student and supervisor settle on the definitive subject for the paper together, as part of the process of writing the Literature Thesis.
 
-Once the topic and time planning are decided on, the student uses the Projects portal on Datanose (www.datanose.nl/#yourprojects) to register the project. This gives the programme the opportunity to provide feedback on the topic choice, if this is deemed necessary. Once this thesis is approved, this becomes visible to the student on Datanose.
+Once the topic and time planning are decided on, the student uses the Projects portal on Datanose (www.datanose.nl/#yourprojects) to register the project. This gives the programme the opportunity to provide feedback on the topic choice, if this is deemed necessary. It also allows the programme to confirm that supervision meets the standards set below.
 
 ## Supervision
-Two separate persons are involved in the assessment of the Literature Thesis: an assessor and an examiner. One of these two will in addition be the supervisor of the thesis. A description of the roles and requirements is given in the below table. Note that the requirement for the examiner are that this person is a senior researcher at UvA.
+Two separate persons are involved in the assessment of the Literature Thesis: an assessor and an examiner. One of these two will in addition be the supervisor of the thesis. A description of the roles and requirements is given in the below table. Note that the requirement for the examiner are that this person is a senior researcher at UvA, as the examiner ultimately holds responsibility for the validity of the grade.
 
 |Role|Requirements|Responsibilities|Hours on project|
 |---|---|----|:---:|
 |Student||<ul><li>Defines problem or question.<li>Collects and analyzes literature.<li>Writes thesis.</ul>|336|
-|Supervisor|<ul><li>Must be from discipline/research group different from assessor's</ul>|<ul><li>Guides the student through process of writing thesis.<li>Helps determine thesis topic.<li>Meets  with student *at least* three times.<li>Provides feedback on draft version.<li>Grades final work.</ul>|20|
+|Supervisor|<ul><li>Must be from discipline/research group different from assessor's</ul>|<ul><li>Guides the student through process of writing thesis.<li>Helps determine thesis topic.<li>Meets  with student *at least* three times during the writing process.<li>Provides feedback on draft version.<li>Grades final work.</ul>|20|
 |Assessor|<ul><li>Must hold a doctoral degree.<li>If the supervisor is a PhD candidate, must work at UvA.<li>Must be from discipline/research group different from supervisor's</ul>|<ul><li>Grades final work.</ul>|20 if supervisor, 4 if 'second reader'|
 |Examiner|<ul><li>Must hold a doctoral degree.<li>Must work at UvA.</ul>| |20 if supervisor, 4 if 'second reader'|
 
@@ -66,11 +63,11 @@ The following steps determine the workflow of the Literature Thesis:
 - The student meets with a supervisor who has expertise on the topic of the student's interest. The student is not expected to do a lot of preparatory reading for this meeting, or have an exact research question ready. Instead, deciding on the research question and doing preliminary reading is part of the Literature Thesis project.
 - Once there is an agreement on the subject between student, supervisor and assessor, the student can register the project via www.datanose.nl/#yourprojects. The student can suggest who should be examiner of the project.
 - The programme will then review whether the proposed set-up fits within the scope and regulations of *Brain and Cognitive Sciences*. This may include changing who will be examiner.
-- Once approved, the thesis can be included into the MBCS curriculum as a *Literature Thesis (12 EC)*
-- During writing, the student meet with the supervisor at least three additional times to discuss progress
-- Before submitting a final version, the student may submit one draft version to the supervisor for feedback purposes
+- Once approved, the thesis can be included into the MBCS curriculum as a *Literature Thesis Brain and Cognitive Sciences (12 EC)*.
+- During writing, the student meets with the supervisor at least three additional times to discuss progress.
+- Before submitting a final version, the student may submit up to one draft version to the supervisor for feedback purposes.
 - Upon completion, the student submits the thesis to datanose.nl.
-- Once the thesis has been submitted, the examiner will receive a link via e-mail through which the final grade for the work can be registered. See [this section](#Grading) for more information on the grading process.
+- Once the thesis has been submitted, the examiner will receive a link via e-mail through which the final grade for the work can be registered. See [the section on grading](#grading) for more information on the grading process.
 
 ## Delays
 In case the deadline for final submission as registered on Datanose is not met by the student, the student is expected to contact the master's programme via info-mcs@uva.nl. If the delay is more than one month, the examiner of the Literature Thesis may decide the project needs to be graded as 'insufficient'.
@@ -86,26 +83,28 @@ For those looking for more help with selecting or synthesizing sources, the foll
 Students looking for additional help with writing may wish to attend a workshop hosted by the [UvA Writing Centre](https://www.uva.nl/en/shared-content/studentensites/fgw/fgw-gedeelde-content/en/az/writing-centre/writing-centre.html).
 
 ## Grading
-The *Literature Thesis* is assessed by the supervisor and assessor, both of whom are chosen by the student at the start of the project. The supervisor and assessor grade independently and the average grade for each component is used to calculate the final grade for the thesis . To normalize grading, our dedicated [grading rubric](https://github.com/tijmz/literature-thesis/blob/master/lt-rubric.md) should be used.
-
-Upon completion of the grading by both assessors, the assessor who has agreed to be examiner will be prompted with a grade registration form, available for download as a PDF or for digital signing using two-factor authentication. Printing the PDF, signing and scanning it and emailing it to info-mcs@uva.nl will allow the programme to register the grade. Also see the section [Submitting grades](https://github.com/tijmz/teaching-matters/wiki/Submitting-grades) on our teaching wiki.
-
-Note that upon registration of the grade (through digital signature or processing by the programme), the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results before submitting grades to Datanose.
-
-----
-Please note: If a discrepancy of more than 1 point exists between grading by supervisor and co-assessor, the two should discuss their considerations with each other and seek consensus. If such consensus cannot be obtained, programme management should be contacted via info-mcs@uva.nl to reach a decision. It is the responsibility of the examiner to assure that assessment is done in accordance with UvA standards.
-
-----
+The *Literature Thesis* is assessed by the supervisor and assessor, both of whom are chosen by the student at the start of the project. Once the student has uploaded a final version of their literature thesis, the examiner and assessor will receive an e-mail message with a link to the Datanose project page, where they can submit partial grades for registration.
 
 Once supervisor and assessor have graded the work, the following steps need to be taken:
-1. The supervisor contacts the assessor to pick a date to discuss their assessment
-2. If the two grades differ less than 1 point, the two grades are averaged.
-3. If the difference is bigger, supervisor and assessor motivate their stance and seek consensus.
-4. If such consensus cannot be obtained, the supervisor contacts info-mcs@uva.nl to report the issue. The programme will then review the case and determine the outcome
-5. The supervisor and/or assessor discuss the final grade with the student and provide summative feedback.
-6. Once a final grade is established, the examiner submits the grade to the online system at Datanose. An e-mail containing the link to this system is sent out automatically once the student submits the final version of the thesis.
 
-After these steps, the grade is registered for and pushed through to the student.
+1. The examiner contacts the assessor to pick a date to discuss their assessment
+2. If the two grades differ less than 1 point, the two grades are averaged.
+3. If the difference is bigger, examiner and assessor motivate their stance and seek consensus.
+4. If such consensus cannot be obtained, the examiner contacts info-mcs@uva.nl to report the issue. The programme will then review the case and determine the outcome.
+5. The examiner and/or assessor discuss the final grade with the student and provide summative feedback.
+6. Once the previous steps have been taken, the examiner confirms the grade in the online system at Datanose.
+
+The supervisor and assessor grade independently and the average grade for each component is used to calculate the final grade for the thesis. To normalize grading, our dedicated grading rubric should be used. This grading rubric is also shown on Datanose when submitting the partial grades.
+
+Upon confirmation of the final grade, the examiner will be prompted with a grade registration form, available for download as a PDF or for digital signing using two-factor authentication. Printing the PDF, signing and scanning it and emailing it to info-mcs@uva.nl will allow the programme to register the grade. Also see the section [Submitting grades](https://github.com/tijmz/teaching-matters/wiki/Submitting-grades) on our teaching wiki.
+
+Note that upon confirmation of the grade (through digital signature or processing by the programme), the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results before submitting grades to Datanose.
+
+----
+Please note: If a discrepancy of more than 1 point exists between grading by assessor and examiner, the two should discuss their considerations with each other and seek consensus. If such consensus cannot be obtained, programme management should be contacted via info-mcs@uva.nl to reach a decision. It is the responsibility of the examiner to assure that assessment is done in accordance with UvA standards.
+
+----
+
 Submitted grades are rounded to whole or half grades (exception: grade 5.5. is not allowed and should become 6.0 instead).
 
 ## Study load
