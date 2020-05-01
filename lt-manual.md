@@ -70,7 +70,7 @@ The following steps determine the workflow of the Literature Thesis:
 - Once the thesis has been submitted, the examiner will receive a link via e-mail through which the final grade for the work can be registered. See [the section on grading](#grading) for more information on the grading process.
 
 ## Delays
-In case the deadline for final submission as registered on Datanose is not going to be met by the student, the student is expected to contact the master's programme via info-mcs@uva.nl. If the delay is more than one month, the student should also inform the study advisor of the programme and the examiner of the Literature Thesis. In this latter case, a motivation for the delay needs to be given. Based on this motivation, the examiner of the project may decide to set a new deadline or to mark the project as 'insufficient'.
+In case the deadline for final submission as registered on Datanose is not going to be met by the student, the student is expected to contact the master's programme via info-mcs@uva.nl with an indication of the size of the delay. If the delay is more than one month, the student should also inform the study advisor of the programme and the examiner of the Literature Thesis. In this latter case, a motivation for the delay needs to be given. Based on this motivation, the examiner of the project may decide to set a new deadline together with the student or to mark the project as 'insufficient'.
 
 ## Materials and support
 The literature that is used to write the Literature Thesis is collected by the students themselves.
