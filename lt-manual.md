@@ -70,7 +70,7 @@ The following steps determine the workflow of the Literature Thesis:
 - Once the thesis has been submitted, the examiner will receive a link via e-mail through which the final grade for the work can be registered. See [the section on grading](#grading) for more information on the grading process.
 
 ## Delays
-In case the deadline for final submission as registered on Datanose is not met by the student, the student is expected to contact the master's programme via info-mcs@uva.nl. If the delay is more than one month, the examiner of the Literature Thesis may decide the project needs to be graded as 'insufficient'.
+In case the deadline for final submission as registered on Datanose is not going to be met by the student, the student is expected to contact the master's programme via info-mcs@uva.nl. If the delay is more than one month, the student should also inform the study advisor of the programme and the examiner of the Literature Thesis. In this latter case, a motivation for the delay needs to be given. Based on this motivation, the examiner of the project may decide to set a new deadline or to mark the project as 'insufficient'.
 
 ## Materials and support
 The literature that is used to write the Literature Thesis is collected by the students themselves.
@@ -79,6 +79,9 @@ For those looking for more help with selecting or synthesizing sources, the foll
 - Burger, A. A. (2008). *The Academic Writer’s Toolkit* (1st ed.). New York: Routledge. 
 - Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. T. (2016). *The Craft of Research* (4th ed.). Chicago: University of Chicago Press.
 - Siljee, K. (2019). *Je scriptie de baas*. Amsterdam: Amsterdam University Press.
+
+Additional resources are:
+- http://www.cws.illinois.edu/workshop/writers/tips/thesis/
 
 Students looking for additional help with writing may wish to attend a workshop hosted by the [UvA Writing Centre](https://www.uva.nl/en/shared-content/studentensites/fgw/fgw-gedeelde-content/en/az/writing-centre/writing-centre.html).
 
