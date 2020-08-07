@@ -91,20 +91,17 @@ Additional resources are:
 Students looking for additional help with writing may wish to attend a workshop hosted by the [UvA Writing Centre](https://www.uva.nl/en/shared-content/studentensites/fgw/fgw-gedeelde-content/en/az/writing-centre/writing-centre.html).
 
 ## Grading
-The *Literature Thesis* is assessed by the supervisor and assessor, both of whom are chosen by the student at the start of the project. Once the student has uploaded a final version of their literature thesis, the examiner and assessor will receive an e-mail message with a link to the Datanose project page, where they can submit partial grades for registration.
+The *Literature Thesis* is assessed by the supervisor and assessor, both of whom are chosen by the student at the start of the project. Once the student has uploaded a final version of their literature thesis, the examiner and assessor will receive an e-mail message with a link to the Datanose project page, where they can submit partial grades for registration. The workflow for this is as follows:
 
-Once supervisor and assessor have graded the work, the following steps need to be taken:
-
-1. The examiner contacts the assessor to pick a date to discuss their assessment
-2. If the two grades differ less than 1 point, the two grades are averaged.
-3. If the difference is bigger, examiner and assessor motivate their stance and seek consensus.
-4. If such consensus cannot be obtained, the examiner contacts info-mcs@uva.nl to report the issue. The programme will then review the case and determine the outcome.
-5. The examiner and/or assessor discuss the final grade with the student and provide summative feedback.
-6. Once the previous steps have been taken, the examiner confirms the grade in the online system at Datanose.
+1. Student uploads the final version to www.datanose.nl/#yourprojects
+2. The examiner and asssessor will receive an e-mail notification to assess the thesis using an online grading rubric.
+3. Once assessment is done, the examiner receives a message to confirm assessment. Before doing so, the examiner should check whether the final grade does not differ 1 grade point or more. If it does, the examiner should contact the assessor to discuss the discrepancy and seek more consensus. If such consensus cannot be reached, the examiner should contact the programme via info-mcs@uva.nl.
+4. If a definitive grade has been decided on, the assessor and/or examiner meet with the student to provide summative feedback
+5. After feedback has been given, the examiner can register the grade online via Datanose.
 
 The supervisor and assessor grade independently and the average grade for each component is used to calculate the final grade for the thesis. To normalize grading, our dedicated grading rubric should be used. This grading rubric is also shown on Datanose when submitting the partial grades.
 
-Upon confirmation of the final grade, the examiner will be prompted with a grade registration form, available for download as a PDF or for digital signing using two-factor authentication. Printing the PDF, signing and scanning it and emailing it to info-mcs@uva.nl will allow the programme to register the grade. Also see the section [Submitting grades](https://github.com/braincogsci/teaching-matters/wiki/Submitting-grades) on our teaching wiki.
+Upon confirmation of the final grade, the examiner will be prompted with a grade registration form, available for download as a PDF or for digital signing using two-factor authentication. If the examiner has not activated two-factor authentication, the programme can register the grade: printing the PDF, signing and scanning it and emailing it to info-mcs@uva.nl will allow the programme to do so. Also see the section [Submitting grades](https://github.com/braincogsci/teaching-matters/wiki/Submitting-grades) on our teaching wiki.
 
 Note that upon confirmation of the grade (through digital signature or processing by the programme), the student is immediately informed about the end result. It is a best practice to ensure that the student has spoken with the supervisor about the assessment results before submitting grades to Datanose.
 
