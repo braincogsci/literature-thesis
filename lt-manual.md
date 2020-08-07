@@ -47,13 +47,13 @@ Students may choose a topic in which they have a special interest within the fie
 Once the topic and time planning are decided on, the student uses the Projects portal on Datanose (www.datanose.nl/#yourprojects) to register the project. This gives the programme the opportunity to provide feedback on the topic choice, if this is deemed necessary. It also allows the programme to confirm that supervision meets the standards set below.
 
 ## Supervision
-Two separate persons are involved in the assessment of the Literature Thesis: an assessor and an examiner. One of these two will in addition be the supervisor of the thesis. A description of the roles and requirements is given in the below table. Note that the requirement for the examiner are that this person is a senior researcher at UvA, as the examiner ultimately holds responsibility for the validity of the grade. 
+Two separate persons are involved in the assessment of the Literature Thesis: an assessor and an examiner. One of these two will in addition be the supervisor of the thesis. A description of the roles and requirements is given in the below table. Note that the requirement for the examiner is that this person is a senior researcher at UvA, as the examiner ultimately holds responsibility for the validity of the grade. 
 
 |Role|Requirements|Responsibilities|Expected hours on project|
 |---|---|----|:---:|
 |Student||<ul><li>Defines problem or question.<li>Collects and analyzes literature.<li>Writes thesis.</ul>|336|
-|Supervisor|<ul><li>Must be from discipline/research group different from assessor's</ul>|<ul><li>Guides the student through process of writing thesis.<li>Helps determine thesis topic.<li>Meets  with student *at least* three times during the writing process.<li>Provides feedback on draft version.<li>Grades final work.</ul>|20|
-|Assessor|<ul><li>Must hold a doctoral degree.<li>If the supervisor is a PhD candidate, must work at UvA.<li>Must be from discipline/research group different from supervisor's</ul>|<ul><li>Grades final work.</ul>|20 if supervisor, otherwise 4|
+|Supervisor||<ul><li>Guides the student through process of writing thesis.<li>Helps determine thesis topic.<li>Meets  with student *at least* three times during the writing process.<li>Provides feedback on draft version.<li>Grades final work.</ul>|20|
+|Assessor|<ul><li>Must hold a doctoral degree.<li>Must be from discipline/research group different from supervisor's</ul>|<ul><li>Grades final work.</ul>|20 if supervisor, otherwise 4|
 |Examiner|<ul><li>Must hold a doctoral degree.<li>Must work at UvA.</ul>| |20 if supervisor, otherwise 4|
 
 Please note that the UvA staff member who is designated examiner is responsible for determining and submitting the final grade. To do so, the examiner can log into www.datanose.nl using a link that will be sent via e-mail once the student submits the final version of the thesis to the Project portal on Datanose.nl. The examiner can fill in the online grading form and submit the final grade.
