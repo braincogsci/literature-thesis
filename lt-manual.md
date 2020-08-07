@@ -136,7 +136,7 @@ Please use your own judgment to determine word count or required amount of resou
 |Writing final version|20|
 |Total|336|
 
-For any comments or questions about the supervision or assessment of the Literature Thesis, please contact our offices via info-mcs@uva.nl. 
+For any comments or questions about the supervision or assessment of the Literature Thesis, please contact our offices via info-mcs@uva.nl. If you have a GitHub account, you can also open issues via https://github.com/braincogsci/literature-thesis/issues.
 
 # Appendix 1: Dublin descriptors
 In this Appendix, the Learning Objectives of the Literature Thesis are aligned with the exit qualifications of the programme, as defined in the TER-B of the research master Brain and Cognitive Sciences.
