@@ -1,7 +1,7 @@
 # Manual Literature Thesis Brain and Cognitive Sciences 2020-2021
 
 ## Introduction
-The ability to review and synthesize information from a variety of sources is a key skill for academic researchers. The module *Literature Thesis Brain and Cognitive Sciences* is an opportunity for students to practice and develop the skills that are necessary to give a state-of-the-art overview of existing research, on a topic of the student’s choosing. The Literature Thesis should not reflect original research by the student (unless its research that the student already published it in a peer-reviewed journal), but instead collect, integrate and discuss existing work. 
+The ability to review and synthesize information from a variety of sources is a key skill for academic researchers. The module *Literature Thesis Brain and Cognitive Sciences* is an opportunity for students to practice and develop the skills that are necessary to give a state-of-the-art overview of existing research, on a topic of the student’s choosing. The Literature Thesis should not reflect original research by the student (unless it's research that the student already published it in a peer-reviewed journal), but instead collect, integrate and discuss existing work. 
 
 ## Learning objectives
 Through the process of writing this thesis the student:
