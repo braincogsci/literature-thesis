@@ -58,7 +58,7 @@ Two separate persons are involved in the assessment of the Literature Thesis: an
 
 Please note that the UvA staff member who is designated examiner is responsible for determining and submitting the final grade. To do so, the examiner can log into www.datanose.nl using a link that will be sent via e-mail once the student submits the final version of the thesis to the Project portal on Datanose.nl. The examiner can fill in the online grading form and submit the final grade.
 
-The student and supervisor should meet at least three times during the course of the writing: (1) to discuss the outline of the thesis, (2) to discuss the first draft, and (3) to discuss the final version. The student is responsible for making these appointments with the supervisor. If reasonable, additional meetings are possible, but it should be kept in mind that supervisor is expected to spend about 20 hours on supervision and that reading a draft version, providing feedback on the draft version and grading the final version are included in these 20 hours. 
+The student and supervisor should meet at least three times during the course of the writing: (1) to discuss the outline of the thesis, (2) to discuss the first draft, and (3) to discuss the final version. The student is responsible for making these appointments with the supervisor. If deemed reasonable, additional meetings are possible, but it should be kept in mind that the supervisor is expected to spend about 20 hours on supervision and that reading a draft version, providing feedback on the draft version and grading the final version are included in these 20 hours. 
 
 ## Process
 The following steps determine the workflow of the Literature Thesis:
