@@ -150,3 +150,8 @@ In this Appendix, the Learning Objectives of the Literature Thesis are aligned w
 |Is able to critically read and evaluate the selected literature.|<ul><li>can design experiments, analyse data and interpret results within the domain of brain and cognitive sciences></ul>|
 |Can review selected literature to develop a personal, scientifically informed perspective.|<ul><li>is able to judge the quality of research in the field and help provide constructive criticism to improve its quality, in both a theoretical and methodological sense.</ul>|
 |Can create an interdisciplinary perspective on a self-chosen thesis subject.|<ul><li>can systematically combine and integrate knowledge, methods and skills from other disciplines, and use them to answer interdisciplinary questions.<li>able to independently carry out research, within an interdisciplinary context, in the field of brain and cognitive sciences.</ul>|
+
+# Appendix 2: Frequently Asked Questions
+
+## When assessing, what does the button "Confim publication" do?
+This button exists to confirm that the thesis can be submitted to the online UvA thesis database. The associated form allows the examiner to place the work under embargo for a specific amount of time. When the form is not submitted, the thesis will be under permanent embargo and will not be shown publicly online.
