@@ -74,6 +74,8 @@ The following steps determine the workflow of the Literature Thesis:
 ## Delays
 In case the deadline for final submission as registered on Datanose is not going to be met by the student, the student is expected to contact the master's programme via info-mcs@uva.nl with an indication of the size of the delay. If the delay is more than one month, the student should also inform the study advisor of the programme and the examiner of the Literature Thesis. In this latter case, a motivation for the delay needs to be given. Based on this motivation, the examiner of the project may decide to set a new deadline together with the student or to mark the project as 'insufficient'.
 
+If acceptable delays occur, it is important that the student sets a new submission date in mutual agreement with the assessors. This new date should be a realistic completion date and it should allow the assessors to grade within a period of twenty working days.
+
 ## Materials and support
 The literature that is used to write the Literature Thesis is collected by the students themselves.
 
@@ -94,7 +96,7 @@ Students looking for additional help with writing may wish to attend a workshop 
 The *Literature Thesis* is assessed by the examiner and the assessor, both of whom are chosen by the student at the start of the project. Once the student has uploaded a final version of their literature thesis, the examiner and assessor will receive an e-mail message with a link to the Datanose project page, where they can submit partial grades for registration. The workflow for this is as follows:
 
 1. Student uploads the final version to www.datanose.nl/#yourprojects
-2. The examiner and asssessor will receive an e-mail notification to assess the thesis using an online grading rubric.
+2. The examiner and asssessor will receive an e-mail notification to assess the thesis using an online grading rubric. The period for this assessment is twenty working days after submission.
 3. Once assessment is done, the examiner receives a message to confirm assessment. Before doing so, the examiner should check whether the two grades given for the product as a whole do not differ 1 grade point or more. If it does, the examiner should contact the assessor to discuss the discrepancy and seek consensus, so that the two grades differ  less that one grade point. If such consensus cannot be reached, the examiner should contact the programme via info-mcs@uva.nl.
 4. If a definitive grade has been decided on, the assessor and/or examiner meet with the student to provide summative feedback.
 5. After feedback has been given, the examiner can register the grade online via Datanose.
